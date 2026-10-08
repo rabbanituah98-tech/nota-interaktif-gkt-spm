@@ -1,0 +1,17 @@
+{
+  "name": "Nota Kilat GKT",
+  "short_name": "GKT Kilat",
+  "description": "Nota saat akhir SPM Grafik Komunikasi Teknikal Tingkatan 4 dan 5. Disediakan oleh Cikgu Rabbani, SMK Dato' Undang Musa Al-Haj, Jelebu.",
+  "lang": "ms",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0A2243",
+  "theme_color": "#1B56B3",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
